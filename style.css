@@ -1,0 +1,196 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.top-bar {
+  background-color: #007b8a;
+  color: white;
+  padding: 5px 0;
+  text-align: center;
+  font-size: 14px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: white;
+  border-bottom: 1px solid #ccc;
+}
+
+ header {
+      display: flex;
+      align-items: center;
+      background-color: #f4f4f4;
+      padding: 10px 20px;
+    }
+
+    header img {
+      height: 60px; /* Atur ukuran logo */
+      margin-right: 15px;
+    }
+
+    header h1 {
+      font-size: 24px;
+      margin: 0;
+    }
+
+.judul h1 {
+  margin: 0;
+  text-align: left;
+  color: #f37021;
+  font-size: 24px;
+  text-transform: uppercase;
+}
+
+.judul h2 {
+  margin: 0;
+  text-align: center;
+  color: #000000;
+  font-size: 24px;
+  text-transform: uppercase;
+}
+
+.judul p {
+  margin: 0;
+  font-size: 14px;
+  color: #333;
+}
+
+.navbar {
+  background-color: #254d7a;
+}
+
+.navbar ul {
+  list-style: none;
+  margin: 0;
+  padding: 10px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.navbar ul li {
+  margin: 0 15px;
+}
+
+.navbar ul li a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.navbar ul li a:hover {
+  text-decoration: underline;
+}
+
+.hero {
+  text-align: center;
+  padding: 20px;
+}
+
+.hero img {
+  width: 80%;
+  max-width: 700px;
+  border-radius: 10px;
+}
+body {
+      background-color: #ffffff;
+      color: #000000;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 20px;
+    }
+
+    .logo-sekolah {
+      max-width: 300px;
+      width: 80%;
+      height: auto;
+      margin: 20px auto;
+    }
+
+
+    .deskripsi {
+      font-size: 16px;
+      margin-top: 20px;
+      margin-bottom: 20px;
+    }
+
+    .jenjang {
+      font-size: 16px;
+      line-height: 1.5;
+    }
+     .map-container {
+      margin-top: 20px;
+    }
+
+    iframe {
+      width: 50%;
+      max-width: 600px;
+      height: 300px;
+      border: 0;
+      border-radius: 10px;
+    }
+
+    .footer {
+      margin-top: 40px;
+      font-size: 14px;
+      color: #ccc;
+    }
+
+    .scroll-up {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      background-color: skyblue;
+      color: white;
+      border-radius: 50%;
+      width: 45px;
+      height: 45px;
+      text-align: center;
+      line-height: 45px;
+      font-size: 24px;
+      text-decoration: none;
+    }
+    .sosmed-container {
+      margin-top: 20px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 15px;
+    }
+
+    .sosmed-link {
+      color: black;
+      text-decoration: none;
+      font-size: 18px;
+      transition: 0.3s;
+    }
+
+    .sosmed-link i {
+      margin-right: 10px;
+    }
+
+    .sosmed-link:hover {
+      color: #f4c542;
+    }
+    .foto-container {
+      display: flex;
+      justify-content: center; 
+      gap: 30px; 
+      margin-top: 50px;
+    }
+
+    .foto-container img {
+      width: 500px;
+      height: auto;
+      border-radius: 20px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    }
+    .galeri {
+    margin-bottom: 30px; 
+  }
+
+  h2 {
+    margin-top: 30px; 
+  }
